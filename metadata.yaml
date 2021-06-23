@@ -1,0 +1,5 @@
+homepage: "www.paboo.gr"
+documentation: "https://www.paboo.gr/pixel"
+versions:
+  - sha: 284b1d699b49c338a97906ce05eaa6048ff6e14d
+    changeNotes: Initial release.
