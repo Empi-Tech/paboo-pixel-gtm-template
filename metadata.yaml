@@ -1,5 +1,9 @@
 homepage: "www.paboo.gr"
-documentation: "https://www.paboo.gr/pixel"
+documentation: "https://merchants.paboo.gr/pixel"
 versions:
+  # Latest version
+  - sha: 63d6048188f61e066e5e77936dcbc2fce4ff0613
+    changeNotes: Changed documentation url and updated license
+  # Older versions
   - sha: 284b1d699b49c338a97906ce05eaa6048ff6e14d
     changeNotes: Initial release.
